@@ -28,7 +28,7 @@ def set_difficulty():
 
 
 def game():
-    print("Welcome to Number Guessing Game.")
+    print("Welcome to Number Guessing Game.\nPick a number between 1 to 100")
     answer = randint(1, 100)
     turns = set_difficulty() 
     
