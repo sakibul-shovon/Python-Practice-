@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d0a0cfc-f461-4ace-a2b9-5e127c61ee2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Coffee Machine Project/Using OPP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Coffee Machine Project/Using OPP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Coffee Machine Project/Using OPP/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Coffee Machine Project/Using OPP/main.py" afterDir="false" />
     </list>
@@ -27,7 +26,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/sakib/Desktop/Coding/Python-Practice-/Turtle"
   }
 }]]></component>
   <component name="RunManager">
